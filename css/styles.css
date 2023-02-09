@@ -1,3 +1,16 @@
+/* основные цвета
+#434455 (adress)
+#2E2F42 NAVY (h3)
+#E7E9FC (подвал)(сornflower)
+#434455 (text)
+*/
+root {
+    --p-text-color: #434455;
+    --h-text-color: #2E2F42;
+    --nav-text-color: #2E2F42;
+    --primary-text-color: #ffffff;
+}
+
 body {
     color: #ffffff;
 }
