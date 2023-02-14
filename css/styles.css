@@ -79,7 +79,8 @@ address {
 }
 
 .adress-mail-link:active,
-.adress-mail-link:focus {
+.adress-mail-link:focus,
+.adress-mail-link:hover {
 	color: var(--pressed-state);
 }
 
@@ -91,7 +92,8 @@ address {
 }
 
 .adress-tel-link:active,
-.adress-tel-link:focus {
+.adress-tel-link:focus,
+.adress-tel-link:hover {
 	color: var(--pressed-state);
 }
 
